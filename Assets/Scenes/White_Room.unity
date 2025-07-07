@@ -36744,6 +36744,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Arch (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1253074303198559612, guid: 0cea4a2a2d46c1043838964a663d2a56, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.56456316
+      objectReference: {fileID: 0}
+    - target: {fileID: 1253074303198559612, guid: 0cea4a2a2d46c1043838964a663d2a56, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.9968
+      objectReference: {fileID: 0}
     - target: {fileID: 1538930735933545229, guid: 0cea4a2a2d46c1043838964a663d2a56, type: 3}
       propertyPath: m_Mesh
       value: 
