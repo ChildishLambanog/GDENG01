@@ -499,7 +499,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -7231345841118946389}
-    m_Duration: 6.416666666666667
+    m_Duration: 5.866666666666666
     m_TimeScale: 1
     m_ParentTrack: {fileID: -2202140320295811738}
     m_EaseInDuration: 0
@@ -565,10 +565,10 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: DollyCam1
   - m_Version: 1
-    m_Start: 6.416666666666667
+    m_Start: 5.866666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -8192035812699524207}
-    m_Duration: 5.099999999999999
+    m_Duration: 5.6499999999999995
     m_TimeScale: 1
     m_ParentTrack: {fileID: -2202140320295811738}
     m_EaseInDuration: 0
