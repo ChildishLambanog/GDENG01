@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 0.2
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 9af23ba5fa5364ff598888460e0e2759, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -9921,6 +9921,18 @@ PrefabInstance:
     - target: {fileID: 457682, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.389
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.b
+      value: 0.1509434
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.g
+      value: 0.07452795
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.r
+      value: 0.0033226283
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28204,6 +28216,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.389
       objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.b
+      value: 0.1509434
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.g
+      value: 0.07452795
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.r
+      value: 0.0033226283
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -40485,7 +40509,7 @@ Camera:
   m_GameObject: {fileID: 1237009164}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 2
+  m_ClearFlags: 1
   m_BackGroundColor: {r: 0.7941176, g: 0.9318458, b: 1, a: 0.019607844}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -67211,6 +67235,18 @@ PrefabInstance:
     - target: {fileID: 457682, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.389
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.b
+      value: 0.1509434
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.g
+      value: 0.07452795
+      objectReference: {fileID: 0}
+    - target: {fileID: 10823054, guid: a0ffc3f89f6564d4db93360de7c64c43, type: 3}
+      propertyPath: m_Color.r
+      value: 0.0033226283
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
