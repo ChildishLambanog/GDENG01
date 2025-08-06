@@ -99,7 +99,7 @@ GameObject:
   - component: {fileID: 10876452}
   - component: {fileID: 6924693895362156291}
   m_Layer: 0
-  m_Name: light
+  m_Name: fire light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
