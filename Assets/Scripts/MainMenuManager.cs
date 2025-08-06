@@ -5,7 +5,7 @@ public class MainMenuManager : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("Spawning 2");
+        SceneManager.LoadScene("Rendering Showcase");
     }
 
     public void ExitGame()
