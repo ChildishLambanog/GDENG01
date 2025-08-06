@@ -6560,7 +6560,7 @@ GameObject:
   - component: {fileID: 160210760}
   - component: {fileID: 160210759}
   m_Layer: 0
-  m_Name: Fire SFX Sleeping Quarters
+  m_Name: Fire SFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47987,7 +47987,7 @@ GameObject:
   - component: {fileID: 1322821348}
   - component: {fileID: 1322821351}
   m_Layer: 0
-  m_Name: Directional Light
+  m_Name: moon light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
